@@ -15,8 +15,8 @@ cd sxeNewModule
 Now add this repo as a submodule.
 
 ```sh
-# ???
-git submodule add <tbd this url> sxecmake
+git submodule add git@github.com:Spidey01/sxecmake.git sxecmake
+# if readonly: https://github.com/Spidey01/sxecmake.git
 git submodule init
 git submodule update
 ```
